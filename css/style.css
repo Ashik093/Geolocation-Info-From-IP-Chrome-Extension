@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 400px;
+    min-width: 400px;
+}
+
+.top-title {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.top-header {
+    padding: 10px;
+    background-color: #6C63FF;
+}
+
+.table-item {
+    font-weight: 200;
+    font-size: 14px;
+}
